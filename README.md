@@ -54,8 +54,8 @@ I build cloud-ready web apps end-to-end — from React frontends to Python/Java 
 ---
 
 ## 🎓 Education
-- **M.S. in Computer Science**, University of Central Missouri — *Expected Aug 2025*  
-- **B.Tech in Computer Science**, JNTU Hyderabad — *2021*
+- **M.S. in Computer Science**, University of Central Missouri — *Aug 2025*  
+- **B.Tech in Electronics and Communication Engineering**, JNTUH Hyderabad — *2021*
 
 ---
 
